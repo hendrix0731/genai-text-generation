@@ -1,0 +1,8 @@
+=== Output with temperature=0.7 ===
+once upon a time when the rest of the world was in a state of abject panic.
+
+"For us, the real question is: how many people have been killed by the Nazis in Europe, and how many have been killed by the U.S.?
+
+=== Output with temperature=1.0 ===
+once upon a time when America was losing to one of its three "worst" major economies, a group of New Jersey's young men who have become the biggest boosters after spending years in their schools, the media and the public eye are calling for President Barack Obama to resign
+
